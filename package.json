@@ -5,5 +5,5 @@
   "repository": "https://github.com/tetsuzawa/ts-getting-started",
   "author": "tetsuzawa",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "module"
 }
