@@ -1,0 +1,9 @@
+{
+  "name": "ts-getting-started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tetsuzawa/ts-getting-started",
+  "author": "tetsuzawa",
+  "license": "MIT",
+  "type": "commonjs"
+}
