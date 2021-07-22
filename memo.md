@@ -39,3 +39,4 @@ SyntaxError: Cannot use import statement outside a module
 
 .mjsならエラーは出ない
 
+`"type": "module"`は全ソースが対応してないから使いづらい。
